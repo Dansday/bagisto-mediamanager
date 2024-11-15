@@ -2,10 +2,10 @@
 
 return [
     [
-        'key' => 'cms.mediamanager',
+        'key' => 'mediamanager',
         'name' => 'mediamanager::app.admin.menu.mediamanager',
         'route' => 'admin.mediamanager.index',
-        'sort' => 2,
-        'icon' => 'temp-icon',
+        'sort' => 10,
+        'icon' => 'settings/inventory.svg',
     ]
 ];

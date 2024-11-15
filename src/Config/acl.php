@@ -2,9 +2,9 @@
 
 return [
     [
-        'key' => 'cms.mediamanager',
+        'key' => 'mediamanager',
         'name' => 'mediamanager::app.admin.acl.mediamanager',
         'route' => 'mediamanager.admin.index',
-        'sort' => 2
+        'sort' => 10
     ],
 ];
