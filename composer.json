@@ -1,10 +1,10 @@
 {
-  "name": "msdevbytes/bagisto-mediamanager",
+  "name": "dansday/bagisto-mediamanager",
   "license": "MIT",
   "authors": [
     {
-      "name": "Shahbaz",
-      "email": "shahbaz.khan.wip@gmail.com"
+      "name": "Akbar Yudhanto",
+      "email": "akbar.yudhanto@dansday.com"
     }
   ],
   "require": {
