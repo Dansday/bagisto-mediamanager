@@ -1,5 +1,7 @@
-@extends('admin::layouts.master')
+<x-admin::layouts>
 
-@section('content-wrapper')
-    @yield('content')
-@stop
+    @section('content-wrapper')
+        @yield('content')
+    @stop
+
+</x-admin::layouts>
